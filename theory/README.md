@@ -1,10 +1,11 @@
 1. Код выводит:
-Bad: undefined
-Bad: undefined
-Bad: undefined
-Bad: undefined
+#Bad: undefined
+#Bad: undefined
+#Bad: undefined
+#Bad: undefined
 
-2. Варианты модификаций (с учетом того, что нужно вывести значения именно через 3 секунды):
+2. Варианты модификаций (с учетом того, что нужно вывести значения именно через 3 секунды).
+
 А. Заменить var на let
 const arr = [10, 12, 15, 21]
 
